@@ -1,0 +1,19 @@
+
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Ê»¦Œıÿÿÿÿ8ÃÜÛã‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Ü¯Üñ8ÃÜÛã‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Šÿãÿÿÿÿÿ8ÃÜÛã‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(å¥‡8ÃÜÛã‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(à§¡´şÿÿÿÿ8ÃÜÛã‰-
+t2squid:RightCurlyBraceDifferentLineAsNextBlockCheck"1Move this "else" keyword to a new dedicated line.(å¥‡8ÃÜÛã‰-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ú›8ÃÜÛã‰-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ü²¦8ÃÜÛã‰-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(«›¿8ÃÜÛã‰-
+dsquid:S2583"CChange this condition so that it does not always evaluate to "true"(Šÿãÿÿÿÿÿ8ÃÜÛã‰-
+@squid:S2325"Make "valid" a "static" method.(à§¡´şÿÿÿÿ8ÃÜÛã‰-
+Zsquid:S1172"9Remove this unused method parameter "loginRequestPacket".(à§¡´şÿÿÿÿ8ÃÜÛã‰-
+Esquid:S2143")Use the Java 8 Date and Time API instead.(¿ú›8ÃÜÛã‰-
+Esquid:S2143")Use the Java 8 Date and Time API instead.(¤ü²¦8ÃÜÛã‰-
+Dsquid:S2143")Use the Java 8 Date and Time API instead.(«›¿8ÃÜÛã‰-

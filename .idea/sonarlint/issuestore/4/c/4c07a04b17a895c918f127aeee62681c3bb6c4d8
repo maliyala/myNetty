@@ -1,0 +1,13 @@
+
+Esquid:S2143")Use the Java 8 Date and Time API instead.(ê‰Ù¹8¹“ó§ˆ-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(åÃ‹8´ÊÑ¿ˆ-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(²¨üã8Ê¸¡Àˆ-
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğêËÿÿÿÿÿ
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(åØàúÿÿÿÿ8¨İ¤Àˆ-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ı˜ÒÎ8¶ò§ˆ-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê‰Ù¹8ªºò§ˆ-
+Jsquid:S2143")Use the Java 8 Date and Time API instead.(åØàúÿÿÿÿ8¨İ¤Àˆ-
+@squid:S2325"$Make "getByteBuf" a "static" method.(åÃ‹8Á¤â¿ˆ-
+r"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(¯ˆ»šüÿÿÿÿ

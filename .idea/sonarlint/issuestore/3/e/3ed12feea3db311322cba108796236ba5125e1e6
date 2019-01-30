@@ -1,0 +1,19 @@
+
+o"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Æº”°
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(×ƒ§·ûÿÿÿÿ
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ˆ·°Èıÿÿÿÿ
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+o"squid:LeftCurlyBraceStartLineCheck%"AMove this left curly brace to the beginning of next line of code.(Úîø›
+t"squid:LeftCurlyBraceStartLineCheck,"AMove this left curly brace to the beginning of next line of code.(ÙØ¤Şıÿÿÿÿ
+r2squid:RightCurlyBraceDifferentLineAsNextBlockCheck%"4Move this "finally" keyword to a new dedicated line.(Úîø›
+6squid:S2096,"Remove this throws clause.(ÙØ¤Şıÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü±öõ
+N
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¯ü¼l
+i
+squid:S109"TAssign this magic number 128 to a well-named constant, and use the constant instead.(Ñ»ß5
+j
+squid:S109-"UAssign this magic number 9099 to a well-named constant, and use the constant instead.(·Ú_
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ˆ·°Èıÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ØŠ

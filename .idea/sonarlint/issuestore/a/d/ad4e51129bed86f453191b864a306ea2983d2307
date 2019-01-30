@@ -1,0 +1,27 @@
+
+{"squid:LeftCurlyBraceStartLineCheck)"AMove this left curly brace to the beginning of next line of code.(Ñ°‘¢ûÿÿÿÿ8Âƒ†½‰-
+v"squid:LeftCurlyBraceStartLineCheck."AMove this left curly brace to the beginning of next line of code.(å¥‡8–Œ½‰-
+v"squid:LeftCurlyBraceStartLineCheck1"AMove this left curly brace to the beginning of next line of code.(¬ıô¡8×­À‰-
+Gsquid:S2143-")Use the Java 8 Date and Time API instead.(ğƒ·‹8²Ë‹½‰-
+v"squid:LeftCurlyBraceStartLineCheck&"AMove this left curly brace to the beginning of next line of code.(²¨üã8Ş©ß¼‰-
+v2squid:RightCurlyBraceDifferentLineAsNextBlockCheck."1Move this "else" keyword to a new dedicated line.(å¥‡8–Œ½‰-
+Lsquid:S2143")Use the Java 8 Date and Time API instead.(­”¡ùÿÿÿÿ8‘ş™Á‰-
+V
+squid:S1063"9Replace this use of System.out or System.err by a logger.(¤œÈ–8ÜĞ¢À‰-
+{"squid:LeftCurlyBraceStartLineCheck+"AMove this left curly brace to the beginning of next line of code.(Óò¨üÿÿÿÿ8²Ë‹½‰-
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ğƒ·‹8²Ë‹½‰-
+v2squid:RightCurlyBraceDifferentLineAsNextBlockCheck1"1Move this "else" keyword to a new dedicated line.(¬ıô¡8×­À‰-
+Lsquid:S2143/")Use the Java 8 Date and Time API instead.(Û«¬™úÿÿÿÿ8Óğ§½‰-
+Gsquid:S21433")Use the Java 8 Date and Time API instead.(¤œÈ–8ÜĞ¢À‰-
+’squid:UselessImportCheck"bRemove this unused import 'com.malirui.ep.sonar.netty.real.protocol.request.MessageRequestPacket'.(â¹¿®ıÿÿÿÿ8´¶ŸÀ‰-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(­”¡ùÿÿÿÿ8‘ş™Á‰-
+o"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(„¯Ãº
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Û«¬™úÿÿÿÿ8Óğ§½‰-
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(úğìˆ8½Õ£Á‰-
+X
+squid:S1261";"if ... else if" constructs should end with "else" clauses.(¬ıô¡8Õ†ŸÀ‰-
+v"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ı˜ÒÎ8‘ş™Á‰-
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ĞåÙ²ùÿÿÿÿ8ææ£Á‰-

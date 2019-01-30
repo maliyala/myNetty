@@ -1,0 +1,29 @@
+
+[
+squid:S126";"if ... else if" constructs should end with "else" clauses.(îÌïüÿÿÿÿ8×ÙÛã‰-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›…¦ëÿÿÿÿÿ8×ÙÛã‰-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿ÍËÀıÿÿÿÿ8×ÙÛã‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ÕøÌ‰ÿÿÿÿÿ8×ÙÛã‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(²¨üã8×ÙÛã‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(¨ÀÃÊÿÿÿÿÿ8×ÙÛã‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Šÿãÿÿÿÿÿ8×ÙÛã‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(å¥‡8×ÙÛã‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(îÌïüÿÿÿÿ8×ÙÛã‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(à§¡´şÿÿÿÿ8×ÙÛã‰-
+y2squid:RightCurlyBraceDifferentLineAsNextBlockCheck"1Move this "else" keyword to a new dedicated line.(îÌïüÿÿÿÿ8×ÙÛã‰-
+t2squid:RightCurlyBraceDifferentLineAsNextBlockCheck"1Move this "else" keyword to a new dedicated line.(å¥‡8×ÙÛã‰-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ú›8×ÙÛã‰-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(›şñ,8×ÙÛã‰-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ü²¦8×ÙÛã‰-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(«›¿8×ÙÛã‰-
+dsquid:S2583"CChange this condition so that it does not always evaluate to "true"(Šÿãÿÿÿÿÿ8×ÙÛã‰-
+@squid:S2325"Make "valid" a "static" method.(à§¡´şÿÿÿÿ8×ÙÛã‰-
+Zsquid:S1172"9Remove this unused method parameter "loginRequestPacket".(à§¡´şÿÿÿÿ8×ÙÛã‰-
+Esquid:S2143")Use the Java 8 Date and Time API instead.(¿ú›8×ÙÛã‰-
+Dsquid:S2143")Use the Java 8 Date and Time API instead.(›şñ,8×ÙÛã‰-
+Esquid:S2143")Use the Java 8 Date and Time API instead.(¤ü²¦8×ÙÛã‰-
+Dsquid:S2143")Use the Java 8 Date and Time API instead.(«›¿8×ÙÛã‰-

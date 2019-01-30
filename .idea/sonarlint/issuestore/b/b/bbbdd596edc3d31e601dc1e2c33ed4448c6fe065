@@ -1,0 +1,5 @@
+
+]squid:S3340"?Reorder annotation arguments to match the order of declaration.(ÂË¶Ç8ºÈ…»‰-
+}squid:S00118"^Rename this abstract class name to match the regular expression '^Abstract[A-Z][a-zA-Z0-9]*$'.(ÖˆÄ¯8˜íˆ»‰-
+o"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ÖˆÄ¯
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Šø°öýÿÿÿÿ

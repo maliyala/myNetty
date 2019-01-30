@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/zui/1.8.1/css/zui.min.css">
+    <link rel="stylesheet" href="zui-theme.css">
+    <!-- ZUI Javascript 依赖 jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/zui/1.8.1/lib/jquery/jquery.js"></script>
+    <!-- ZUI 标准版压缩后的 JavaScript 文件 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/zui/1.8.1/js/zui.min.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+    window.CHAT = {
+        me: "",
+        WS:{},
+        init: function () {
+            if (window.WebSocket) {
+                this.WS = new WebSocket("ws://localhost:9099/ws");
+                this.WS.onmessage = function(event) {
+                    var data = event.data;
+                    console.log("收到数据:" + data);
+                    //显示其他人的聊天信息
+                    console.log(CHAT.me);
+                    console.log(data.split(":")[0]);
+                    if(CHAT.me != data.split(":")[0]) {
+                        appendOtherchat(data);
+                    }
+
+                },
+
+                    this.WS.onclose = function(event) {
+                        console.log("连接关闭");
+                    },
+
+                    this.WS.onopen = function(evt) {
+                        console.log("Connection open ...");
+                    },
+
+                    this.WS.onerror = function(event) {
+                        console.log("连接失败....");
+                    }
+            } else {
+                alert("您的浏览器不支持聊天，请更换浏览器");
+            }
+
+        },
+        chat:function (msg) {
+            this.WS.send(msg);
+        }
+    }
+
+    CHAT.init();
+
+    function Trim(str) {
+        return str.replace(/(^\s*)|(\s*$)/g, "");
+    }
+
+    function appendMy (msg) {  //拼接自己的聊天内容
+        document.getElementById('chatlist').innerHTML+="<div class='comment'><a class='avatar pull-right'><i class='icon-user icon-2x'></i></a><div class='content pull-right'><div><strong>我</strong></div><div class='text'>"+msg+"</div></div></div>";
+
+    }
+
+    function appendOtherchat(msg) {  //拼接别人的聊天信息到聊天室
+        var  msgs = msg.split(":");
+        document.getElementById('chatlist').innerHTML+="<div class='comment'><a class='avatar'><i class='icon-user icon-2x'></i></a><div class='content'><div><strong>"+msgs[0]+"</strong></div><div class='text'>"+msgs[1]+"</div></div></div>";
+    }
+
+
+    document.getElementById('inputMsg').addEventListener('keyup', function(event) {
+        if (event.keyCode == "13") {
+            //回车执行查询
+            var  inputMsg = document.getElementById('inputMsg').value;
+            if (inputMsg == null || Trim(inputMsg) == "" ) {
+                alert("请输入聊天消息");
+            } else {
+                var  userName = document.getElementById('userName').value;
+                if (userName == null || userName == '') {
+                    alert("请输入聊天昵称");
+                } else {
+                    //发送消息 定义消息格式   用户名：[消息]
+                    CHAT.chat(userName+":"+inputMsg);
+                    //记录我的昵称
+                    CHAT.me = userName;
+                    appendMy(inputMsg);
+                    //发送完清空输入
+                    document.getElementById('inputMsg').focus();
+                    document.getElementById('inputMsg').value="";
+                }
+            }
+        }
+    });
+</script>
+<div class="container">
+    <h1>mike多人聊天室，等你来聊</h1>
+    <div class="comments">
+        <section class="comments-list" id="chatlist">
+            <div class="comment">
+                <a href="###" class="avatar">
+                    <i class="icon-user icon-2x"></i>
+                </a>
+                <div class="content">
+                    <div><strong>其他人</strong></div>
+                    <div class="text">其他人的聊天内容</div>
+                </div>
+            </div>
+
+            <div class="comment">
+                <a href="###" class="avatar pull-right">
+                    <i class="icon-user icon-2x"></i>
+                </a>
+                <div class="content pull-right">
+                    <div><strong>我</strong></div>
+                    <div class="text">我说话的内容</div>
+                </div>
+            </div>
+        </section>
+        <footer>
+            <div class="reply-form" id="commentReplyForm1">
+                <form class="form">
+                    <div class="form-group">
+                        <div class="input-control has-label-left">
+                            <input id="userName" type="text" class="form-control" placeholder="">
+                            <label for="inputAccountExample2" class="input-control-label-left">昵称:</label>
+                        </div>
+                    </div>
+                </form>
+
+                <a href="###" class="avatar"><i class="icon-user icon-2x"></i></a>
+                <form class="form">
+                    <div class="form-group">
+                        <textarea id="inputMsg" class="form-control new-comment-text" rows="2" value="" placeholder="开始聊天...  输入enter 发送消息"></textarea>
+                    </div>
+                </form>
+            </div>
+        </footer>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,17 @@
+
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(®§µÿÿÿÿÿ8›×Ûã‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Çµí‘8›×Ûã‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ßÑ®Æ8›×Ûã‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(åêš8›×Ûã‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(´Š´–ıÿÿÿÿ8›×Ûã‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ÿ¥äÑ8›×Ûã‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(å¥‡8›×Ûã‰-
+t2squid:RightCurlyBraceDifferentLineAsNextBlockCheck"1Move this "else" keyword to a new dedicated line.(å¥‡8›×Ûã‰-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(””ÈÛıÿÿÿÿ8›×Ûã‰-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùêşÿÿÿÿ8›×Ûã‰-
+o
+squid:S109"UAssign this magic number 1024 to a well-named constant, and use the constant instead.(¶ş…x8›×Ûã‰-
+=squid:S2211"Specify a type for: 'future'(‡ô•¯ıÿÿÿÿ8›×Ûã‰-
+Jsquid:S2143")Use the Java 8 Date and Time API instead.(””ÈÛıÿÿÿÿ8›×Ûã‰-

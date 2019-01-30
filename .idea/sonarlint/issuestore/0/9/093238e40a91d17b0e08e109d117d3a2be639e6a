@@ -1,0 +1,15 @@
+
+Esquid:S2143")Use the Java 8 Date and Time API instead.(Ô°ÄÓ8ãùş¿ˆ-
+esquid:UselessImportCheck"<Remove this unused import 'io.netty.channel.ChannelHandler'.(­ûßì8†«÷¿ˆ-
+qsquid:UselessImportCheck"HRemove this unused import 'io.netty.util.concurrent.EventExecutorGroup'.(»—âŞ8†«÷¿ˆ-
+@squid:S2325"$Make "getByteBuf" a "static" method.(åÃ‹8ÖÇ‘Àˆ-
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä…¨øÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô°ÄÓ8Âş¿ˆ-
+^squid:UselessImportCheck"0Remove this unused import 'java.nio.ByteBuffer'.(¿¢×±úÿÿÿÿ8—ş¿ˆ-
+Jsquid:S2143")Use the Java 8 Date and Time API instead.(°Š½£úÿÿÿÿ8òÀˆ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(°Š½£úÿÿÿÿ8¿¼Àˆ-
+m"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(âîš‡
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(²¨üã8Õû¿ˆ-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(åÃ‹8ÖÇ‘Àˆ-

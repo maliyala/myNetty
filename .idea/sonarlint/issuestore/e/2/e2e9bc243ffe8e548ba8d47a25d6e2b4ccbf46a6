@@ -1,0 +1,30 @@
+
+Vsquid:S1943"5Remove this use of constructor "Scanner(InputStream)"(рЫІёшяяяя8РШЫг‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(НќѓҐ8РШЫг‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Зµн‘8РШЫг‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(­Ю®Љщяяяя8РШЫг‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(єХъЂ8РШЫг‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ЋўУ™8РШЫг‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(яҐдС8РШЫг‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Г‡Обыяяяя8РШЫг‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(еҐћ‡8РШЫг‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(©ЪжСюяяяя8РШЫг‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ФхыІ8РШЫг‰-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ЌµЫхяяяяя8РШЫг‰-
+y2squid:RightCurlyBraceDifferentLineAsNextBlockCheck"1Move this "else" keyword to a new dedicated line.(Г‡Обыяяяя8РШЫг‰-
+t2squid:RightCurlyBraceDifferentLineAsNextBlockCheck"1Move this "else" keyword to a new dedicated line.(еҐћ‡8РШЫг‰-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ё®шХ8РШЫг‰-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ЮКИ8РШЫг‰-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ЛлѓУ8РШЫг‰-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ЊЭа8РШЫг‰-
+t
+squid:S109"TAssign this magic number 500 to a well-named constant, and use the constant instead.(’­Ќџыяяяя8РШЫг‰-
+=squid:S2211"Specify a type for: 'future'(Д†Вљяяяяя8РШЫг‰-
+Esquid:S2143")Use the Java 8 Date and Time API instead.(ё®шХ8РШЫг‰-
+Esquid:S2143")Use the Java 8 Date and Time API instead.(ЛлѓУ8РШЫг‰-
+squid:UselessImportCheck"QRemove this unused import 'com.malirui.ep.sonar.netty.real.protocol.PacketCodeC'.(пћуЂяяяяя8РШЫг‰-
+]squid:UselessImportCheck"4Remove this unused import 'io.netty.buffer.ByteBuf'.(¬¶з›8РШЫг‰-

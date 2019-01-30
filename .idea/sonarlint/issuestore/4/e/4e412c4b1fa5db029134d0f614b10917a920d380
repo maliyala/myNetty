@@ -1,0 +1,4 @@
+
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ÖˆÄ¯8†Í’‰-
+{squid:S00118"^Rename this abstract class name to match the regular expression '^Abstract[A-Z][a-zA-Z0-9]*$'.(ÖˆÄ¯8†Í’‰-
+[squid:S3340"?Reorder annotation arguments to match the order of declaration.(ÂË¶Ç8†Í’‰-

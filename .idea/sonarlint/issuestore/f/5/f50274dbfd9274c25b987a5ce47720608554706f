@@ -1,0 +1,31 @@
+
+n"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(å†Ş
+T
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Ğêëàøÿÿÿÿ
+o"squid:LeftCurlyBraceStartLineCheck9"AMove this left curly brace to the beginning of next line of code.(¬‡¸Œ
+‡"squid:ClassVariableVisibilityCheck"TMake channels a static final constant or non-public and provide accessors if needed.(¯óÜøÿÿÿÿ
+n"squid:LeftCurlyBraceStartLineCheck&"AMove this left curly brace to the beginning of next line of code.(å†Ş
+o"squid:LeftCurlyBraceStartLineCheckB"AMove this left curly brace to the beginning of next line of code.(™›¶¤
+t"squid:LeftCurlyBraceStartLineCheck$"AMove this left curly brace to the beginning of next line of code.(ÅÈÁÃùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ØŠ
+Jsquid:S1444".Make this "public static channels" field final(¯óÜøÿÿÿÿ
+o"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(äôú
+9squid:S2386"Make this member "protected".(¯óÜøÿÿÿÿ
+hsquid:S11922"LDefine a constant instead of duplicating this literal "ChatClient:" 3 times.(Ğêëàøÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Úªßşÿÿÿÿ
+Dsquid:S2208	".Explicitly import the specific classes needed.(÷Ïd
+T
+squid:S106D"9Replace this use of System.out or System.err by a logger.(‘äåœøÿÿÿÿ
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ŒÑñáşÿÿÿÿ
+t"squid:LeftCurlyBraceStartLineCheck0"AMove this left curly brace to the beginning of next line of code.(ïĞ¢Åüÿÿÿÿ
+X
+squid:S126V";"if ... else if" constructs should end with "else" clauses.(Û¾Åì8×üÓ ˆ-
+nsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(ÊØƒúşÿÿÿÿ8×üÓ ˆ-
+:squid:S1943Q"Remove this use of "getBytes"(œ¯á>8×üÓ ˆ-
+{"squid:LeftCurlyBraceStartLineCheckM"AMove this left curly brace to the beginning of next line of code.(âÉ¹·øÿÿÿÿ8×üÓ ˆ-
+v"squid:LeftCurlyBraceStartLineCheckN"AMove this left curly brace to the beginning of next line of code.(£¡í°8×üÓ ˆ-
+v"squid:LeftCurlyBraceStartLineCheckV"AMove this left curly brace to the beginning of next line of code.(Û¾Åì8×üÓ ˆ-
+v2squid:RightCurlyBraceDifferentLineAsNextBlockCheckV"1Move this "else" keyword to a new dedicated line.(Û¾Åì8×üÓ ˆ-
+V
+squid:S106X"9Replace this use of System.out or System.err by a logger.(ôæ÷†8×üÓ ˆ-

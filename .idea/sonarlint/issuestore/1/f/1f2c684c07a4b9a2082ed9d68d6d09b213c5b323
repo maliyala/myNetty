@@ -1,0 +1,40 @@
+
+s"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(”ã‰G8‚ñ’£ˆ-
+r"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(¬ÌËøÿÿÿÿ
+n
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ŞÍŞ…ùÿÿÿÿ8‚ñ’£ˆ-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¡m8‚ñ’£ˆ-
+Asquid:S1166"%Either log or rethrow this exception.(ï­£Ä8Ê¥å¢ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(³¤Õ˜ûÿÿÿÿ8‚ñ’£ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ŞÍŞ…ùÿÿÿÿ8‚ñ’£ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(È¹ú×ùÿÿÿÿ8‚ñ’£ˆ-
+6squid:S2096"Remove this throws clause.(œû¿Ø8ĞàØ¢ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Ë¦Áëüÿÿÿÿ8Ââø¢ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8‚ñ’£ˆ-
+u2squid:RightCurlyBraceDifferentLineAsNextBlockCheck"2Move this "catch" keyword to a new dedicated line.(ï­£Ä8Ê¥å¢ˆ-
+w2squid:RightCurlyBraceDifferentLineAsNextBlockCheck"4Move this "finally" keyword to a new dedicated line.(Úîø›8‚™ú¢ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8òŒù¢ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8Ê¥å¢ˆ-
+n
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ŞÍŞ…ùÿÿÿÿ8‘Ãô¢ˆ-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(œû¿Ø8ÖÕÁ¢ˆ-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ï­£Ä8Ê¥å¢ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(˜ïˆÿÿÿÿÿ8Å¥í¢ˆ-
+Esquid:S00108")Either remove or fill this block of code.(”ã‰G8‚ñ’£ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ŞÍŞ…ùÿÿÿÿ8‘Ãô¢ˆ-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Úîø›8‚ñ’£ˆ-
+u
+squid:S109"UAssign this magic number 1024 to a well-named constant, and use the constant instead.(Òƒõ¹ıÿÿÿÿ8‚ñ’£ˆ-
+w2squid:RightCurlyBraceDifferentLineAsNextBlockCheck"4Move this "finally" keyword to a new dedicated line.(Úîø›8‚ñ’£ˆ-
+t2squid:RightCurlyBraceDifferentLineAsNextBlockCheck"2Move this "catch" keyword to a new dedicated line.(”ã‰G8‚ñ’£ˆ-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(œû¿Ø8Ââø¢ˆ-
+`squid:S1188"DReduce this lambda expression number of lines from 27 to at most 20.(¥—ığ8‚ñ’£ˆ-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Úîø›8‚™ú¢ˆ-
+@squid:S1166"%Either log or rethrow this exception.(”ã‰G8‚ñ’£ˆ-
+`squid:S1188"DReduce this lambda expression number of lines from 28 to at most 20.(¥—ığ8Ââø¢ˆ-
+p
+squid:S109"UAssign this magic number 8099 to a well-named constant, and use the constant instead.(˜„·á8Ê¥å¢ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(µº½”ûÿÿÿÿ8Å¥í¢ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(˜ïˆÿÿÿÿÿ8‚ñ’£ˆ-
+y"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8‚ñ’£ˆ-

@@ -1,0 +1,6 @@
+
+s"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ПЌњ-8аЪЫг‰-
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(јТІЊ8аЪЫг‰-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ц’Д|8аЪЫг‰-
+Dsquid:S2143")Use the Java 8 Date and Time API instead.(ц’Д|8аЪЫг‰-

@@ -1,0 +1,14 @@
+
+v"squid:LeftCurlyBraceStartLineCheck%"AMove this left curly brace to the beginning of next line of code.(å¥‡8òÉ¥Á‰-
+{"squid:LeftCurlyBraceStartLineCheck""AMove this left curly brace to the beginning of next line of code.(Óò¨üÿÿÿÿ8òÉ¥Á‰-
+v"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ı˜ÒÎ8Ÿ”Á‰-
+o"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Æã„²
+v2squid:RightCurlyBraceDifferentLineAsNextBlockCheck%"1Move this "else" keyword to a new dedicated line.(å¥‡8òÉ¥Á‰-
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Û«¬™úÿÿÿÿ8òÉ¥Á‰-
+Lsquid:S2143&")Use the Java 8 Date and Time API instead.(Û«¬™úÿÿÿÿ8òÉ¥Á‰-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²°’Öÿÿÿÿÿ8ğ¶ŸÁ‰-
+{"squid:LeftCurlyBraceStartLineCheck!"AMove this left curly brace to the beginning of next line of code.(îäÓ”üÿÿÿÿ8…™Á‰-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ğƒ·‹8¤™¦Á‰-
+Gsquid:S2143#")Use the Java 8 Date and Time API instead.(ğƒ·‹8¤™¦Á‰-
