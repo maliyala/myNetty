@@ -36,6 +36,10 @@ public class PacketCodeC {
         serializerMap.put(serializer.getSerializerAlogrithm(),serializer);
     }
 
+    public static int getMagicNumber(){
+        return MAGIC_NUMBER;
+    }
+
     /**
      * 编码
      * @param byteBuf

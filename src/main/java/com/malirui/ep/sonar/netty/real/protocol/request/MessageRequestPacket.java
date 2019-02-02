@@ -13,9 +13,11 @@ import static com.malirui.ep.sonar.netty.real.protocol.command.Command.MESSAGE_R
 @Data
 @NoArgsConstructor
 public class MessageRequestPacket extends Packet {
+    private String toUserId;
     private String message;
 
-    public MessageRequestPacket(String message) {
+    public MessageRequestPacket(String toUserId, String message) {
+        this.toUserId = toUserId;
         this.message = message;
     }
 
