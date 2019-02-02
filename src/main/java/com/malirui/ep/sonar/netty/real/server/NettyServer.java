@@ -2,6 +2,7 @@ package com.malirui.ep.sonar.netty.real.server;
 
 import com.malirui.ep.sonar.netty.real.codec.PacketDecoder;
 import com.malirui.ep.sonar.netty.real.codec.PacketEncoder;
+import com.malirui.ep.sonar.netty.real.server.handler.AuthHandler;
 import com.malirui.ep.sonar.netty.real.server.handler.LoginRequestHandler;
 import com.malirui.ep.sonar.netty.real.server.handler.MessageRequestHandler;
 import io.netty.bootstrap.ServerBootstrap;
@@ -35,6 +36,8 @@ public class NettyServer {
                     protected void initChannel(NioSocketChannel ch) throws Exception {
                         ch.pipeline().addLast(new PacketDecoder());
                         ch.pipeline().addLast(new LoginRequestHandler());
+                        //新增用户认证handler
+                        ch.pipeline().addLast(new AuthHandler());
                         ch.pipeline().addLast(new MessageRequestHandler());
                         ch.pipeline().addLast(new PacketEncoder());
 
