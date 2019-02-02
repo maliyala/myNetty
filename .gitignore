@@ -1,0 +1,7 @@
+.idea/
+.gradle/
+target/
+MyNetty.iml
+generated/
+.DS_Store
+generated/
